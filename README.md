@@ -1,4 +1,4 @@
-## Hello everybody my name is umida
+# Hello everybody my name is Umida
 
 ## I`m student at Al-Xorezmiy
 I`m currently learning HTML and CSS
