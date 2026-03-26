@@ -1,5 +1,8 @@
 ## Hello everybody my name is umida
 
+# I`mastudent at Al-Xorezmiy
+I`m currently learning HTML and CSS
+Based in Krakalpakstan, Uzbekistan
 
 
 
